@@ -1,7 +1,6 @@
 # Todo App
 
 - Version:           0.1.0
-- Author:            AWells <ajwells99@gmail.com>
 - Description:       Todo App with task CRUD (project generated using Angular CLI)
 
 

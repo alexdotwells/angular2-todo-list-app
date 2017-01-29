@@ -1,6 +1,6 @@
 # Todo App
 
-- Version:           0.1.0
+- Version:           1.0.0
 - Description:       Todo App with task CRUD (project generated using Angular CLI)
 
 
